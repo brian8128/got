@@ -1,2 +1,2 @@
-PROJECT_HOME = "/Home/Ubuntu/got/"
+PROJECT_HOME = "/home/ubuntu/got/"
 
